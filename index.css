@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    font-family: 'Roboto', sans-serif;
+
+}
+.title{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 100;
+}
+.phone-device img{
+    width: 200px;
+}
+.content{
+    display: flex;
+    align-items: center;
+}
+.content ul li{
+    list-style: none;
+}
+.content li{
+    margin: 30px, 0px;
+}
