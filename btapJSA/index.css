@@ -1,0 +1,44 @@
+.background{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+    color: black;
+    background-color: #06425C;
+    text-align: center;
+    line-height: 100px;
+    padding: 24px;
+}
+img{
+    width:100px
+}
+.body2{
+    display: flex;
+    justify-content: space-around;
+    margin : 20px 20px 20px 20px;
+    text-align: center;
+}
+#pizza-1{
+    border:0.1px solid black;
+    border-radius: 20px 20px 20px 20px ;
+    text-align: center;
+}
+#pizza-2{
+    border:0.1px solid black;
+    border-radius: 20px 20px 20px 20px ;
+    text-align: center;
+}
+#pizza-3{
+    border:0.1px solid black;
+    border-radius: 20px 20px 20px 20px ;
+    text-align: center;
+}
+#pizza-4{
+    border:0.1px solid black;
+    border-radius: 20px 20px 20px 20px ;
+    text-align: center;
+}
+.foot{
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+}
